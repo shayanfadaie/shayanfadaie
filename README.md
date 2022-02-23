@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shayanfadaie
+- 👋 Hi, I’m shayan fadaie.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning languages c#,python,java,Javascript and html,css.
 - 💞️ I’m looking to collaborate on Google,apple.
